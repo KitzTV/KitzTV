@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KitzTV)](https://git.io/streak-stats)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV)](https://github.com/ryo-ma/github-profile-trophy)
