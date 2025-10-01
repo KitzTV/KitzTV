@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=KitzTV&theme=ambient-gradient&card_width=300&card_height=150)](https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KitzTV&theme=ambient-gradient&card_width=300&card_height=150)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
 
---- 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
+(https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV)](https://github.com/ryo-ma/github-profile-trophy)
+
+
