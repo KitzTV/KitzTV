@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Waving](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Hi%20there.&section=header&customColorList=10)
 
 <!--
 **KitzTV/KitzTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ---
 
-(https://git.io/streak-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV&theme=aura
+)
 
