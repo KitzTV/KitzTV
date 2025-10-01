@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KitzTV)](https://github.com/ryo-ma/github-profile-trophy)
+
+--- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambiant-gradient)
